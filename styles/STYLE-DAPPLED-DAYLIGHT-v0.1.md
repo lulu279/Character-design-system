@@ -9,12 +9,12 @@
 | 类型 | 户外自然光与生活插画渲染风格 |
 | 状态 | 待确认草案 |
 | 适用范围 | 夏日树荫、户外日常、人物全身与中景 |
-| 参考图 | `../03_参考图/STYLE-DAPPLED-DAYLIGHT-Reference.jpg` |
+| 参考图 | `../references/STYLE-DAPPLED-DAYLIGHT-Reference.jpg` |
 | 来源说明 | 用户提供的原始参考图 |
 
 ### 本卡参考图
 
-![树荫斑驳日光生活插画参考图](../03_参考图/STYLE-DAPPLED-DAYLIGHT-Reference.jpg)
+![树荫斑驳日光生活插画参考图](../references/STYLE-DAPPLED-DAYLIGHT-Reference.jpg)
 
 **原图来源：** 用户提供的 11.jpeg；作者、原帖和授权未知。
 
@@ -74,7 +74,7 @@
 
 ## 11. 验证资产与版本记录（Validation & Version History）
 
-**参考图文件：** `../03_参考图/STYLE-DAPPLED-DAYLIGHT-Reference.jpg`  
+**参考图文件：** `../references/STYLE-DAPPLED-DAYLIGHT-Reference.jpg`  
 **来源状态：** 用户提供的原始参考图  
 **版本记录：** v0.1：由户外参考图提取树荫斑驳光、冷暖关系和摄影式景深；仍为草案，待用户确认后升版。
 

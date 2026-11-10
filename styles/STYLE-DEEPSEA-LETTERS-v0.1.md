@@ -9,12 +9,12 @@
 | 类型 | 日系生活插画的线条、色彩与渲染记录 |
 | 状态 | 历史图集风格指纹；跨项目复用需重新确认 |
 | 适用范围 | 海洋主题角色生活插画、咖啡馆与室内场景试作 |
-| 参考图 | `../03_参考图/STYLE-DEEPSEA-LETTERS-Reference.png` |
+| 参考图 | `../references/STYLE-DEEPSEA-LETTERS-Reference.png` |
 | 来源说明 | 项目内单幅候选验证图；非原始风格来源 |
 
 ### 本卡参考图
 
-![《深海来信》蓝海生活插画试作参考图](../03_参考图/STYLE-DEEPSEA-LETTERS-Reference.png)
+![《深海来信》蓝海生活插画试作参考图](../references/STYLE-DEEPSEA-LETTERS-Reference.png)
 
 **原图来源：** 本卡所附为项目内单幅候选图，用于可视化定位；原始风格指纹与审核记录保存在《深海来信》试作包中。不得将该候选图误称为原始风格来源。
 
@@ -74,7 +74,7 @@
 
 ## 11. 验证资产与版本记录（Validation & Version History）
 
-**参考图文件：** `../03_参考图/STYLE-DEEPSEA-LETTERS-Reference.png`  
+**参考图文件：** `../references/STYLE-DEEPSEA-LETTERS-Reference.png`  
 **来源状态：** 项目内单幅候选验证图；非原始风格来源  
 **版本记录：** v0.1：保留历史图集的风格指纹与候选图；原始风格包仍作为补充材料，跨角色迁移范围待确认。
 

@@ -9,12 +9,12 @@
 | 类型 | 半写实日系幻想插画渲染风格 |
 | 状态 | 历史风格包已整理；保留原分析与提示词作为证据 |
 | 适用范围 | 蓝紫色海洋主题人物插画、室内夜景与梦幻环境 |
-| 参考图 | `../03_参考图/STYLE-MARINE-ANIME-Reference.jpg` |
+| 参考图 | `../references/STYLE-MARINE-ANIME-Reference.jpg` |
 | 来源说明 | 历史风格包中提取的用户上传原始参考图 |
 
 ### 本卡参考图
 
-![蓝紫海洋系半写实日系幻想插画参考图](../03_参考图/STYLE-MARINE-ANIME-Reference.jpg)
+![蓝紫海洋系半写实日系幻想插画参考图](../references/STYLE-MARINE-ANIME-Reference.jpg)
 
 **原图来源：** 历史风格包中提取的用户上传原始参考图；作者、平台、模型与许可未知。原分析与中英提示词包另行登记。
 
@@ -74,7 +74,7 @@
 
 ## 11. 验证资产与版本记录（Validation & Version History）
 
-**参考图文件：** `../03_参考图/STYLE-MARINE-ANIME-Reference.jpg`  
+**参考图文件：** `../references/STYLE-MARINE-ANIME-Reference.jpg`  
 **来源状态：** 历史风格包中提取的用户上传原始参考图  
 **版本记录：** v1.0：固定细线、柔和半写实渲染、蓝紫暗部、粉暖肤色与克制散景；保留历史提示词包。
 

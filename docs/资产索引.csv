@@ -1,14 +1,14 @@
 ﻿资产ID,名称,版本,状态,文件路径,参考图
-CHAR-DEEPSEEK,DeepSeek 鲸鱼娘,v1.0,核心身份与结构已确认,01_角色卡/CHAR-DEEPSEEK-v1.0.md,
-CHAR-GPT-DRAGON,GPT 西方龙娘,v1.0,核心身份与结构已确认；服装为独立变体,01_角色卡/CHAR-GPT-DRAGON-v1.0.md,
-CHAR-HK433,HK433,v1.0,项目核心设定已确认；历史成图逐张审核,01_角色卡/CHAR-HK433-v1.0.md,
-CHAR-MARIA,破坏者／玛利亚,v1.0,结构硬约束已确认；外观细节以原作与已采纳素材复核,01_角色卡/CHAR-MARIA-v1.0.md,
-CHAR-MESMER,幻术师 Mesmer／Tiamat · IO,v1.0,设计基准已整理；遮挡部位与皮肤差异待原始素材复核,01_角色卡/CHAR-MESMER-v1.0.md,
-CHAR-YAOYAO,GLM 摇摇（Yaoyao）,v1.0,人格源文档与核心视觉方向已记录；机械／无机械分支分别维护,01_角色卡/CHAR-YAOYAO-v1.0.md,
-STYLE-BIRTHDAY-NIGHT,生日夜低照度叙事插画,v0.1,项目系列记录；跨角色通用模板待确认,02_风格卡/STYLE-BIRTHDAY-NIGHT-v0.1.md,03_参考图/STYLE-BIRTHDAY-NIGHT-Reference.png
-STYLE-CRIMSON-THEATRE,绯红戏剧系,v1.0,已确认的独立风格方向,02_风格卡/STYLE-CRIMSON-THEATRE-v1.0.md,03_参考图/STYLE-CRIMSON-THEATRE-Reference.jpg
-STYLE-DAPPLED-DAYLIGHT,树荫斑驳日光生活插画,v0.1,待确认草案,02_风格卡/STYLE-DAPPLED-DAYLIGHT-v0.1.md,03_参考图/STYLE-DAPPLED-DAYLIGHT-Reference.jpg
-STYLE-DEEPSEA-LETTERS,《深海来信》蓝海生活插画试作,v0.1,历史图集风格指纹；跨项目复用需重新确认,02_风格卡/STYLE-DEEPSEA-LETTERS-v0.1.md,03_参考图/STYLE-DEEPSEA-LETTERS-Reference.png
-STYLE-MARINE-ANIME,蓝紫海洋系半写实日系幻想插画,v1.0,历史风格包已整理；保留原分析与提示词作为证据,02_风格卡/STYLE-MARINE-ANIME-v1.0.md,03_参考图/STYLE-MARINE-ANIME-Reference.jpg
-STYLE-SILVER-RITUAL,银辉秘仪系,v1.0,已确认的独立风格方向,02_风格卡/STYLE-SILVER-RITUAL-v1.0.md,03_参考图/STYLE-SILVER-RITUAL-Reference.jpg
-STYLE-WARM-WINDOW,窗边暖逆光,v1.0,已确认；只保存画法，不默认迁移服装、动作与构图,02_风格卡/STYLE-WARM-WINDOW-v1.0.md,03_参考图/STYLE-WARM-WINDOW-Reference.jpg
+CHAR-DEEPSEEK,DeepSeek 鲸鱼娘,v1.0,核心身份与结构已确认,characters/CHAR-DEEPSEEK-v1.0.md,
+CHAR-GPT-DRAGON,GPT 西方龙娘,v1.0,核心身份与结构已确认；服装为独立变体,characters/CHAR-GPT-DRAGON-v1.0.md,
+CHAR-HK433,HK433,v1.0,项目核心设定已确认；历史成图逐张审核,characters/CHAR-HK433-v1.0.md,
+CHAR-MARIA,破坏者／玛利亚,v1.0,结构硬约束已确认；外观细节以原作与已采纳素材复核,characters/CHAR-MARIA-v1.0.md,
+CHAR-MESMER,幻术师 Mesmer／Tiamat · IO,v1.0,设计基准已整理；遮挡部位与皮肤差异待原始素材复核,characters/CHAR-MESMER-v1.0.md,
+CHAR-YAOYAO,GLM 摇摇（Yaoyao）,v1.0,人格源文档与核心视觉方向已记录；机械／无机械分支分别维护,characters/CHAR-YAOYAO-v1.0.md,
+STYLE-BIRTHDAY-NIGHT,生日夜低照度叙事插画,v0.1,项目系列记录；跨角色通用模板待确认,styles/STYLE-BIRTHDAY-NIGHT-v0.1.md,references/STYLE-BIRTHDAY-NIGHT-Reference.png
+STYLE-CRIMSON-THEATRE,绯红戏剧系,v1.0,已确认的独立风格方向,styles/STYLE-CRIMSON-THEATRE-v1.0.md,references/STYLE-CRIMSON-THEATRE-Reference.jpg
+STYLE-DAPPLED-DAYLIGHT,树荫斑驳日光生活插画,v0.1,待确认草案,styles/STYLE-DAPPLED-DAYLIGHT-v0.1.md,references/STYLE-DAPPLED-DAYLIGHT-Reference.jpg
+STYLE-DEEPSEA-LETTERS,《深海来信》蓝海生活插画试作,v0.1,历史图集风格指纹；跨项目复用需重新确认,styles/STYLE-DEEPSEA-LETTERS-v0.1.md,references/STYLE-DEEPSEA-LETTERS-Reference.png
+STYLE-MARINE-ANIME,蓝紫海洋系半写实日系幻想插画,v1.0,历史风格包已整理；保留原分析与提示词作为证据,styles/STYLE-MARINE-ANIME-v1.0.md,references/STYLE-MARINE-ANIME-Reference.jpg
+STYLE-SILVER-RITUAL,银辉秘仪系,v1.0,已确认的独立风格方向,styles/STYLE-SILVER-RITUAL-v1.0.md,references/STYLE-SILVER-RITUAL-Reference.jpg
+STYLE-WARM-WINDOW,窗边暖逆光,v1.0,已确认；只保存画法，不默认迁移服装、动作与构图,styles/STYLE-WARM-WINDOW-v1.0.md,references/STYLE-WARM-WINDOW-Reference.jpg

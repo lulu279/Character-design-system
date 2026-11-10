@@ -9,12 +9,12 @@
 | 类型 | 戏剧舞台光影与渲染风格 |
 | 状态 | 已确认的独立风格方向 |
 | 适用范围 | 舞台感肖像、戏剧性人物近景、帷幕空间 |
-| 参考图 | `../03_参考图/STYLE-CRIMSON-THEATRE-Reference.jpg` |
+| 参考图 | `../references/STYLE-CRIMSON-THEATRE-Reference.jpg` |
 | 来源说明 | 用户提供的原始参考图 |
 
 ### 本卡参考图
 
-![绯红戏剧系参考图](../03_参考图/STYLE-CRIMSON-THEATRE-Reference.jpg)
+![绯红戏剧系参考图](../references/STYLE-CRIMSON-THEATRE-Reference.jpg)
 
 **原图来源：** 用户提供的绯红戏剧系原始参考图；作者、原帖与许可未知。
 
@@ -74,7 +74,7 @@
 
 ## 11. 验证资产与版本记录（Validation & Version History）
 
-**参考图文件：** `../03_参考图/STYLE-CRIMSON-THEATRE-Reference.jpg`  
+**参考图文件：** `../references/STYLE-CRIMSON-THEATRE-Reference.jpg`  
 **来源状态：** 用户提供的原始参考图  
 **版本记录：** v1.0：固定暗酒红舞台空间、暖侧光、帷幕层次和克制金属高光；与银辉秘仪系分开维护。
 

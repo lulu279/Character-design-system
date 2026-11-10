@@ -9,12 +9,12 @@
 | 类型 | 夜间生活叙事的光影与渲染方案 |
 | 状态 | 项目系列记录；跨角色通用模板待确认 |
 | 适用范围 | 生日夜双人叙事、卧室与室内夜景 |
-| 参考图 | `../03_参考图/STYLE-BIRTHDAY-NIGHT-Reference.png` |
+| 参考图 | `../references/STYLE-BIRTHDAY-NIGHT-Reference.png` |
 | 来源说明 | 项目内单幅验证图；非原始画风来源 |
 
 ### 本卡参考图
 
-![生日夜低照度叙事插画参考图](../03_参考图/STYLE-BIRTHDAY-NIGHT-Reference.png)
+![生日夜低照度叙事插画参考图](../references/STYLE-BIRTHDAY-NIGHT-Reference.png)
 
 **原图来源：** 项目内单幅验证图，见参考图。本图用于记录系列画面效果，不作为原始画风来源。
 
@@ -74,7 +74,7 @@
 
 ## 11. 验证资产与版本记录（Validation & Version History）
 
-**参考图文件：** `../03_参考图/STYLE-BIRTHDAY-NIGHT-Reference.png`  
+**参考图文件：** `../references/STYLE-BIRTHDAY-NIGHT-Reference.png`  
 **来源状态：** 项目内单幅验证图；非原始画风来源  
 **版本记录：** v0.1：整理生日夜系列画面的低照度蓝紫环境、局部暖光和叙事道具逻辑；跨角色通用性待确认。
 

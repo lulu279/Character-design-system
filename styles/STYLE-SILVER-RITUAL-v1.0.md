@@ -9,12 +9,12 @@
 | 类型 | 冷色仪式感幻想插画的光影与材质方案 |
 | 状态 | 已确认的独立风格方向 |
 | 适用范围 | 幻术师主题、镜厅、冷光空间、仪式感人物插画 |
-| 参考图 | `../03_参考图/STYLE-SILVER-RITUAL-Reference.jpg` |
+| 参考图 | `../references/STYLE-SILVER-RITUAL-Reference.jpg` |
 | 来源说明 | 用户提供的原始参考图 |
 
 ### 本卡参考图
 
-![银辉秘仪系参考图](../03_参考图/STYLE-SILVER-RITUAL-Reference.jpg)
+![银辉秘仪系参考图](../references/STYLE-SILVER-RITUAL-Reference.jpg)
 
 **原图来源：** 用户提供的银辉秘仪系原始参考图；作者、原帖与许可未知。
 
@@ -74,7 +74,7 @@
 
 ## 11. 验证资产与版本记录（Validation & Version History）
 
-**参考图文件：** `../03_参考图/STYLE-SILVER-RITUAL-Reference.jpg`  
+**参考图文件：** `../references/STYLE-SILVER-RITUAL-Reference.jpg`  
 **来源状态：** 用户提供的原始参考图  
 **版本记录：** v1.0：固定银白冷边光、蓝灰阴影、浅紫反光和材质分层；与绯红戏剧系分图输出。
 

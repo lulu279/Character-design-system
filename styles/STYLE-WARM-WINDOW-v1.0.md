@@ -9,12 +9,12 @@
 | 类型 | 日系生活插画光影与渲染风格 |
 | 状态 | 已确认；只保存画法，不默认迁移服装、动作与构图 |
 | 适用范围 | 日常生活插画、室内场景、人物近景及跨角色光影迁移 |
-| 参考图 | `../03_参考图/STYLE-WARM-WINDOW-Reference.jpg` |
+| 参考图 | `../references/STYLE-WARM-WINDOW-Reference.jpg` |
 | 来源说明 | 用户提供的原始参考图 |
 
 ### 本卡参考图
 
-![窗边暖逆光参考图](../03_参考图/STYLE-WARM-WINDOW-Reference.jpg)
+![窗边暖逆光参考图](../references/STYLE-WARM-WINDOW-Reference.jpg)
 
 **原图来源：** 用户提供的窗边暖逆光 JPEG，1080 × 1440；作者、原帖和许可未知，私人创作参考。
 
@@ -77,7 +77,7 @@
 
 ## 11. 验证资产与版本记录（Validation & Version History）
 
-**参考图文件：** `../03_参考图/STYLE-WARM-WINDOW-Reference.jpg`  
+**参考图文件：** `../references/STYLE-WARM-WINDOW-Reference.jpg`  
 **来源状态：** 用户提供的原始参考图  
 **版本记录：** v1.0：固定暖金侧逆光、灰橄榄阴影、细线、柔和渐变与摄影式景深；明确仅保存画法。
 
