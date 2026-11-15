@@ -28,3 +28,9 @@
 - `styles/` 中 `STYLE-BIRTHDAY-NIGHT` 与 `STYLE-DEEPSEA-LETTERS` 所附为项目内验证／候选图，不是原始风格来源，卡内已明确标注。
 - 参考图的作者、原帖或许可未知时，按私人参考资料处理；本包不声称拥有第三方原图版权。
 - 本包不包含大量历史生成稿、MOD 原始压缩包或第三方素材全集。
+
+## 近期资产增补（2026-11-15）
+
+- [2026-11-15 服装/光照/场景资产增补索引](docs/ASSET_INDEX_ADDENDUM.csv)；[整合与验证说明](docs/2026-11-15-ASSET-INTEGRATION.md)；[资产审计记录](docs/ASSET_AUDIT-2026-11-15.md)。
+- 新增 `outfits/03_DeepSeek/cards/`（9 张季节与特别服装卡）、`outfits/06_Yaoyao/cards/`（2 张服装卡）、`styles/drafts/`（2 张光照草案，未入确认风格索引）、`prompts/scenes/` 与 `prompts/modules/`（场景简报与状态模块）、服装变体与场景模板、`workflow/ASSET-QA-CHECKLIST.md`。
+- 参考图未随本次提交入库：按 `docs/PUBLICATION_AND_REFERENCE_POLICY.md`，用户提供的参考图与未核实版权的图片保留在本地；多格合成图与联系表不计为独立插画。

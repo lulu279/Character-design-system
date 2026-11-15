@@ -1,0 +1,20 @@
+﻿asset_id,asset_type,character,season_or_context,status,suggested_repo_path,description
+DS-OUT-01,outfit,DeepSeek,spring,design_defined_pending_validation,characters/outfits/DEEPSEEK/,春季海岸轻行装
+DS-OUT-02,outfit,DeepSeek,summer,reference_locked_design_defined_pending_validation,characters/outfits/DEEPSEEK/,夏季海滨运动装；用户全身参考为最高优先级
+DS-OUT-03,outfit,DeepSeek,autumn,design_defined_pending_validation,characters/outfits/DEEPSEEK/,秋季海岸徒步装
+DS-OUT-04,outfit,DeepSeek,winter,design_defined_pending_validation,characters/outfits/DEEPSEEK/,冬季雪海远征装
+DS-IN-01,outfit,DeepSeek,spring indoor,design_defined_pending_validation,characters/outfits/DEEPSEEK/,春季窗边薄衫
+DS-IN-02,outfit,DeepSeek,summer indoor,design_defined_pending_validation,characters/outfits/DEEPSEEK/,夏季白色棉T
+DS-IN-03,outfit,DeepSeek,autumn indoor,design_defined_pending_validation,characters/outfits/DEEPSEEK/,秋季深海针织
+DS-IN-04,outfit,DeepSeek,winter indoor,design_defined_pending_validation,characters/outfits/DEEPSEEK/,冬季暖雪居家服
+DS-SPECIAL-LACE-INDOOR,outfit,DeepSeek,special indoor,design_constraints_locked_pending_clean_turnaround_validation,characters/outfits/DEEPSEEK/,蓝白蕾丝室内套装 v1.1
+YY-IN-HOME-LOUNGE,outfit,Yaoyao,indoor,user_direction_confirmed_design_defined_pending_scene_validation,characters/outfits/YAOYAO/,棉白T与家居短裤；无女仆元素
+YY-OUT-URBAN-EXPLORER,outfit,Yaoyao,outdoor,direction_confirmed_details_pending_validation,characters/outfits/YAOYAO/,城市机能装
+STYLE-LANTERN-POINT-LIGHT,lighting,cross-character,night,draft_pending_user_confirmation,styles/drafts/,煤油灯局部点光源
+STYLE-NOON-COASTAL-DIRECTIONAL,lighting,DeepSeek,noon,draft_pending_user_confirmation,styles/drafts/,正午海滨方向性日光
+SHOT-MATERIAL-POST-EXERTION,shot-module,DeepSeek,sports,user_constraint_confirmed_for_coastal_sports_shots,prompts/modules/,汗水、海水、盐渍和泥沙
+SCENE-DEEPSEEK-NIGHT-FISHING-TO-SLEEP,scene,DeepSeek,night,story_outline_defined_individual_shots_pending,prompts/scenes/,七幕独立场景故事
+SCENE-DEEPSEEK-COASTAL-SPORT,scene,DeepSeek,all seasons,first_round_6_independent_images_found_remaining_6_pending,prompts/scenes/,海滨运动与休息
+SCENE-DEEPSEEK-SEASONAL-REMAINING-SHOTS,scene,DeepSeek,all seasons,planned_not_generated_as_individual_images,prompts/scenes/,剩余六张独立插画计划
+SCENE-YAOYAO-CHOCOLATE-MAKING,scene,Yaoyao,indoor,scene_brief_defined_contact_sheet_only,prompts/scenes/,普通厨房巧克力制作
+SCENE-YAOYAO-MAINTENANCE-CARRYING,scene,Yaoyao,indoor morning,historical_shot_prompt_pending_generation_review,prompts/scenes/,搬运至维护台

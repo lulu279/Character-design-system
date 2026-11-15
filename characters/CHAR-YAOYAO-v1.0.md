@@ -59,6 +59,17 @@
 | **无机械分支** | 保持脸、发、眼和数字尾巴识别，身体不额外机械化 |
 | **日常／工作空间** | 生活、工作、维修场景由 SHOT 单独定义 |
 
+### 2026-11-15 服装变体卡索引
+
+下列变体卡位于 `outfits/06_Yaoyao/cards/`，均为待验证设计，未升格为默认设定：
+
+| 变体 ID | 名称 | 类别 | 状态 |
+|---|---|---|---|
+| YY-IN-HOME-LOUNGE | 棉白 T 居家服 | 室内 / 休息 | user_direction_confirmed_design_defined_pending_scene_validation |
+| YY-OUT-URBAN-EXPLORER | 城市机能探索装 | 户外 / 通勤 / 运动 | direction_confirmed_details_pending_validation |
+
+统一结构约束：机械关节、检修口和散热通道保留活动 / 维护空间；数字尾巴为非实体投影，不画成实体生物尾巴。室内休息装不使用女仆元素；女仆服仅作为明确工作场景的工作服分支。
+
 具体服装、动作、神态、场景和机位由单图任务（SHOT）指定。未经确认的候选设计不得自动升格为默认设定。
 
 ## 6. 禁止偏差与失败判据（Negative Constraints）

@@ -52,3 +52,14 @@ UNASSIGNED,未决定归属,U-04_Claude元素伪装服装,U-04｜Claude元素伪�
 UNASSIGNED,未决定归属,U-03_罗密欧式贵族宫廷乐师服,U-03｜罗密欧式贵族/宫廷乐师服,E2｜故事板可见服装摘要；角色性别/归属曾有版本变化,独立服装卡，暂不绑定角色。
 UNASSIGNED,未决定归属,U-02_黑白复古荷叶边挂脖泳装,U-02｜黑白复古荷叶边挂脖泳装,E2｜历史对话恢复到上身结构；下身结构被遮挡，待参考确认,独立服装卡，暂不绑定角色。
 UNASSIGNED,未决定归属,U-01_黑白哥特镂空蕾丝连身衣,U-01｜黑白哥特镂空蕾丝连身衣,E2｜历史对话恢复到结构摘要；未确认归属,独立服装卡，暂不绑定角色。
+CHAR-DEEPSEEK,DeepSeek,DS-OUT-01,春季海岸轻行装,2026-11-15设计卡｜design_defined_pending_validation,浅蓝白轻量防风外套、白色速干内搭、蓝白功能短裤、防水运动鞋与斜挎包；尾根骶尾正中开口
+CHAR-DEEPSEEK,DeepSeek,DS-OUT-02,夏季海滨运动装,2026-11-15设计卡｜reference_locked_design_defined_pending_validation,以用户全身海滨参考为最高优先级：白鲸标帽、可拆半透灰白短外套、白底蓝滚边鲸纹运动上装、拼色功能短裤、深蓝斜挎包与运动凉鞋
+CHAR-DEEPSEEK,DeepSeek,DS-OUT-03,秋季海岸徒步装,2026-11-15设计卡｜design_defined_pending_validation,海军蓝软壳外套、灰蓝速干长内搭、灰蓝工装短裤、护腿与徒步鞋、背包与导航小件
+CHAR-DEEPSEEK,DeepSeek,DS-OUT-04,冬季雪海远征装,2026-11-15设计卡｜design_defined_pending_validation,白色中长防风保暖外套、海军蓝保暖内层、抓绒长裤、防水雪地靴、围巾手套护目与远征背包
+CHAR-DEEPSEEK,DeepSeek,DS-IN-01,春季窗边薄衫,2026-11-15设计卡｜design_defined_pending_validation,白色棉质上衣、浅蓝薄开衫、棉质居家短裤、短袜与软拖
+CHAR-DEEPSEEK,DeepSeek,DS-IN-02,夏季白色棉T,2026-11-15设计卡｜design_defined_pending_validation,oversize 白棉 T（浅蓝滚边与小鲸标）、海军蓝透气居家短裤
+CHAR-DEEPSEEK,DeepSeek,DS-IN-03,秋季深海针织,2026-11-15设计卡｜design_defined_pending_validation,雾蓝 oversize 针织衫、白色棉质内搭、灰蓝直筒居家裤、针织袜与软拖
+CHAR-DEEPSEEK,DeepSeek,DS-IN-04,冬季暖雪居家服,2026-11-15设计卡｜design_defined_pending_validation,象牙白摇粒绒连帽衫、浅蓝保暖内层、海军蓝摇粒绒居家长裤、厚袜与长绒拖鞋
+CHAR-DEEPSEEK,DeepSeek,DS-SPECIAL-LACE-INDOOR,蓝白蕾丝室内套装,2026-11-15设计卡｜design_constraints_locked_pending_clean_turnaround_validation,白／象牙白胸衣式上装、蓝蝴蝶结与蕾丝边、离肩袖；侧腰X束带两端有真实固定点、低腰裙位于尾根下方、吊袜带独立于束带系统；腹部保持开放，骶尾正中尾根开口
+YAO,Yaoyao,YY-IN-HOME-LOUNGE,棉白T与家居短裤,2026-11-15设计卡｜user_direction_confirmed_design_defined_pending_scene_validation,纯白棉 T 与家居短裤；不呈现内衣感，排除女仆／围裙／胸衣化／吊袜带等元素
+YAO,Yaoyao,YY-OUT-URBAN-EXPLORER,城市机能探索装,2026-11-15设计卡｜direction_confirmed_details_pending_validation,短版机能外套、高领运动内搭、不对称机能短裤／裙裤、模块腰带挂包、腿部挂点与运动鞋；数字尾巴为非实体投影

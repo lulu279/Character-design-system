@@ -59,6 +59,24 @@
 | **生日夜** | 与 GPT 龙娘共同参与系列叙事；消息、视线和探身动作须形成因果 |
 | **《深海来信》试作** | 沿用试作包中的审核记录；虎鲸原型、七头身和尾根结构以本卡为准 |
 
+### 2026-11-15 服装变体卡索引
+
+下列变体卡位于 `outfits/03_DeepSeek/cards/`，均为待验证设计，未升格为默认设定：
+
+| 变体 ID | 名称 | 类别 | 状态 |
+|---|---|---|---|
+| DS-OUT-01 | 春季海岸轻行装 | 户外 / 春 | design_defined_pending_validation |
+| DS-OUT-02 | 夏季海滨运动装 | 户外 / 夏 | reference_locked_design_defined_pending_validation |
+| DS-OUT-03 | 秋季海岸徒步装 | 户外 / 秋 | design_defined_pending_validation |
+| DS-OUT-04 | 冬季雪海远征装 | 户外 / 冬 | design_defined_pending_validation |
+| DS-IN-01 | 春季窗边薄衫 | 室内 / 春 | design_defined_pending_validation |
+| DS-IN-02 | 夏季白色棉T | 室内 / 夏 | design_defined_pending_validation |
+| DS-IN-03 | 秋季深海针织 | 室内 / 秋 | design_defined_pending_validation |
+| DS-IN-04 | 冬季暖雪居家服 | 室内 / 冬 | design_defined_pending_validation |
+| DS-SPECIAL-LACE-INDOOR | 蓝白蕾丝室内套装 | 特别服装 | design_constraints_locked_pending_clean_turnaround_validation |
+
+统一尾根约束：尾巴从骶尾部正中自然连接，所有裤装 / 裙装 / 外套均需有合理的尾根开口，不允许从髋侧伸出或穿透完整布料。
+
 具体服装、动作、神态、场景和机位由单图任务（SHOT）指定。未经确认的候选设计不得自动升格为默认设定。
 
 ## 6. 禁止偏差与失败判据（Negative Constraints）

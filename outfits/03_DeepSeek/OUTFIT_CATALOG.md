@@ -15,3 +15,12 @@
 |DS-11|D-01 黑蔷薇庄园女仆|E4｜历史草案部分可恢复，未确认|维多利亚长裙、黑天鹅绒胸衣、玫瑰/钥匙/怀表|
 |DS-12|D-02 暗夜礼仪女仆|E4｜名称/定位可恢复，Prompt重建|哥特宴会侍女|
 |DS-13|D-03 月影守夜女仆|E4｜名称/定位可恢复，Prompt重建|古堡夜间守护者|
+|DS-OUT-01|春季海岸轻行装|2026-11-15设计卡｜design_defined_pending_validation|浅蓝白轻量防风外套、白色速干内搭、蓝白功能短裤、防水运动鞋与斜挎包；尾根骶尾正中开口|
+|DS-OUT-02|夏季海滨运动装|2026-11-15设计卡｜reference_locked_design_defined_pending_validation|以用户全身海滨参考为最高优先级：白鲸标帽、可拆半透灰白短外套、白底蓝滚边鲸纹运动上装、拼色功能短裤、深蓝斜挎包与运动凉鞋|
+|DS-OUT-03|秋季海岸徒步装|2026-11-15设计卡｜design_defined_pending_validation|海军蓝软壳外套、灰蓝速干长内搭、灰蓝工装短裤、护腿与徒步鞋、背包与导航小件|
+|DS-OUT-04|冬季雪海远征装|2026-11-15设计卡｜design_defined_pending_validation|白色中长防风保暖外套、海军蓝保暖内层、抓绒长裤、防水雪地靴、围巾手套护目与远征背包|
+|DS-IN-01|春季窗边薄衫|2026-11-15设计卡｜design_defined_pending_validation|白色棉质上衣、浅蓝薄开衫、棉质居家短裤、短袜与软拖|
+|DS-IN-02|夏季白色棉T|2026-11-15设计卡｜design_defined_pending_validation|oversize 白棉 T（浅蓝滚边与小鲸标）、海军蓝透气居家短裤|
+|DS-IN-03|秋季深海针织|2026-11-15设计卡｜design_defined_pending_validation|雾蓝 oversize 针织衫、白色棉质内搭、灰蓝直筒居家裤、针织袜与软拖|
+|DS-IN-04|冬季暖雪居家服|2026-11-15设计卡｜design_defined_pending_validation|象牙白摇粒绒连帽衫、浅蓝保暖内层、海军蓝摇粒绒居家长裤、厚袜与长绒拖鞋|
+|DS-SPECIAL-LACE-INDOOR|蓝白蕾丝室内套装|2026-11-15设计卡｜design_constraints_locked_pending_clean_turnaround_validation|白／象牙白胸衣式上装、蓝蝴蝶结与蕾丝边、离肩袖；侧腰X束带两端有真实固定点、低腰裙位于尾根下方、吊袜带独立于束带系统；腹部保持开放，骶尾正中尾根开口|

@@ -7,10 +7,10 @@
 |---|---|---:|
 | HK433 | `01_HK433/` | 6 |
 | Mesmer | `02_Mesmer/` | 3 |
-| DeepSeek 鲸鱼娘 | `03_DeepSeek/` | 13 |
+| DeepSeek 鲸鱼娘 | `03_DeepSeek/` | 22 |
 | GPT 西方龙娘 | `04_GPT_DragonGirl/` | 3 |
 | 玛利亚 | `05_Maria/` | 12 |
-| Yaoyao 摇摇 | `06_Yaoyao/` | 12 |
+| Yaoyao 摇摇 | `06_Yaoyao/` | 14 |
 | 未决定归属 | `07_UNASSIGNED_OUTFITS/` | 4 |
 
 ## 重要文件
