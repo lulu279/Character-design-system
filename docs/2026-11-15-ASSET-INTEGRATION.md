@@ -1,5 +1,7 @@
 # Integration Guide — how to merge this pack into Character-design-system
 
+> **实际落位记录（2026-11-15 合并时补充）：** 本仓库已有 `outfits/` 服装资产体系，因此第 2 节映射表与第 4 节命令中的提案路径 `characters/outfits/DEEPSEEK/`、`characters/outfits/YAOYAO/` 实际落位为 `outfits/03_DeepSeek/cards/` 与 `outfits/06_Yaoyao/cards/`；`docs/ASSET_INDEX_ADDENDUM.csv` 的 `suggested_repo_path` 列已同步更新为实际路径。其余目录（`styles/drafts/`、`prompts/scenes/`、`prompts/modules/`、`templates/`、`workflow/`、`docs/`）与提案一致。本文其余内容保留包内原文。
+
 ## 1. What was verified in the repository
 
 The public `main` README identifies the repository as Cards Pack v2.0 and lists these top-level areas: `characters/`, `styles/`, `references/`, `templates/`, `docs/`, `examples/`, `prompts/`, and `workflow/`.
